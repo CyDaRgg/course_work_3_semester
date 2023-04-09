@@ -1,0 +1,29 @@
+﻿  AttentionWindow.cpp
+  DrawMap.cpp
+  GameCycle.cpp
+B:\_1studying\3_semester\courseWork_OOP_pacman\Absolute_final_pacman\after_recover\pacman_the_end\pacman_the_end\GameCycle.cpp(172,125): warning C4244: =: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Ghost.cpp
+  IsInFileNewRecord.cpp
+  Main.cpp
+B:\_1studying\3_semester\courseWork_OOP_pacman\Absolute_final_pacman\after_recover\pacman_the_end\pacman_the_end\Main.cpp(28,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+B:\_1studying\3_semester\courseWork_OOP_pacman\Absolute_final_pacman\after_recover\pacman_the_end\pacman_the_end\Main.cpp(31,52): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+B:\_1studying\3_semester\courseWork_OOP_pacman\Absolute_final_pacman\after_recover\pacman_the_end\pacman_the_end\Main.cpp(31,34): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+B:\_1studying\3_semester\courseWork_OOP_pacman\Absolute_final_pacman\after_recover\pacman_the_end\pacman_the_end\Main.cpp(52,62): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Создание кода
+  5 of 382 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  pacman_the_end.vcxproj -> B:\_1studying\3_semester\courseWork_OOP_pacman\Absolute_final_pacman\after_recover\pacman_the_end\Release\pacman_the_end.exe
